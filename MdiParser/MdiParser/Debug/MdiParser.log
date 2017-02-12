@@ -1,0 +1,4 @@
+﻿  MdiParser.cpp
+e:\projects\rfc4445-vs2015prj\mdiparser\mdiparser\mdiparser.cpp(12): warning C4715: 'getMdi': not all control paths return a value
+  MdiParser.vcxproj -> E:\Projects\RFC4445-vs2015prj\MdiParser\Debug\MdiParser.exe
+  MdiParser.vcxproj -> E:\Projects\RFC4445-vs2015prj\MdiParser\Debug\MdiParser.pdb (Full PDB)
